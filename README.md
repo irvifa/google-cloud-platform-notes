@@ -2,6 +2,10 @@
 
 This is my notes about Google Cloud Platform. I'm actively answering questions in Stackoverflow.
 
+## BigQuery
+
+More notes can be found in [there](bigquery/README.md).
+
 ## Bigtable
 
 More notes can be found in [there](bigtable/README.md).
