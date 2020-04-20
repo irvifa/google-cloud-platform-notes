@@ -1,5 +1,3 @@
-## Bigtable
-
 ### Preventing Key Hotspots in Bigtable After Scale-Up
 
 Bigtable is a sparse, distributed, persistent multidimensional sorted map indexed by row key, column key, and a timestamp.

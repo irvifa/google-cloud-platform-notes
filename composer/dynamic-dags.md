@@ -1,5 +1,3 @@
-## Composer
-
 ### Create a Dynamically Created DAG and Troubleshoot Airflow’s Webserver in Google Cloud Composer
 
 There was a condition where I need to fetch my configuration from Google Cloud SQL and create a dynamically created DAG. The first step that I do is trying to create a `clousql proxy` in my Composer cluster. This can be done, because in general all of your Airflow metadata also stored inside of Cloud SQL, so you can create your own `cloudsql proxy` based on available `cloudsql proxy` Dockerimage in your Composer cluster. Depends on your airflow version, you can get the following `Pod` and `Service` for the proxy.

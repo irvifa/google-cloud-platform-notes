@@ -1,5 +1,3 @@
-## Cloud Functions
-
 ### Securing Google Cloud Functions Using Service Account and How to Access it in Service-Service Communications
 
 Google Cloud Functions provide a mechanism to secure each of your endpoint to permitted users only, namely remove `allUsers` and `allAuthenticatedUsers` in the IAM. For service to service communication you can use service account to generate token when you want to create a request to the Google Cloud Functions endpoint. The Google OAuth 2.0 system supports server-to-server interactions such as those between a web application and a Google service. For this scenario you need a service account, which is an account that belongs to your application instead of to an individual end user. Your application calls Google APIs on behalf of the service account, so users aren’t directly involved. After an application obtains an access token, it sends the token to a Google API in an [HTTP Authorization request header](https://developer.mozilla.org/docs/Web/HTTP/Headers/Authorization).

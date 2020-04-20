@@ -1,5 +1,3 @@
-## Cloudbuild
-
 ### Sending Build Status Notification From Google Container Builder to Github
 
 This basically an attempt to get a status events from Google Container Builder back to Github, since [Google Container Builder don’t support build based on Pull Request, at least **Not Yet**](https://stackoverflow.com/questions/49020663/does-google-container-builder-support-building-pull-requests). Back then, a friend of mine, [Cakra Wardhana](https://medium.com/u/7a500d64b5c8), told me if it’ll good if we can get the build status from Container Builder back to Github based on commit SHA. He then explained a little bit about Github API V3, specifically the[ Status Event](https://developer.github.com/v3/repos/statuses/). I’ve create a simple Container Builder to Slack before with also his help. We can use the fact that a [Build resource](https://cloud.google.com/container-builder/docs/api/reference/rest/v1/projects.builds) was [sent to Google PubSub](https://cloud.google.com/container-builder/docs/send-build-notifications) each time Container Builder was triggered.
