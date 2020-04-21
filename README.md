@@ -10,10 +10,6 @@ More notes can be found in [there](bigquery/README.md).
 
 More notes can be found in [there](bigtable/README.md).
 
-## Composer
-
-More notes can be found in [there](composer/README.md).
-
 ## Cloud Functions
 
 More notes can be found in [there](cloud-functions/README.md).
@@ -22,7 +18,11 @@ More notes can be found in [there](cloud-functions/README.md).
 
 More notes can be found in [there](cloudbuild/README.md).
 
-## GKE
+## Composer
+
+More notes can be found in [there](composer/README.md).
+
+## Google Kubernetes Engine (GKE)
 
 More notes can be found in [there](gke/README.md).
 
