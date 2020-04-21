@@ -197,4 +197,3 @@ sample_schema = [
 ]
 ```
 For more explanation about available data type you can refer to this [page](https://cloud.google.com/bigquery/docs/reference/standard-sql/data-types). The most important thing is make sure that your Airflow have access to your container registry. Also if you define your own `ConfigMap` or `Secret` you can create that in your Airflow, if you run your Airflow on top of Kubernetes that also will be a lot easier. I think that’s all.. Hope it helps!
-

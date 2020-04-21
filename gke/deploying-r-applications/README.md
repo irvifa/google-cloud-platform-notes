@@ -74,6 +74,6 @@ spec:
       targetPort: 3838
   selector:
     app: <your-app-name> 
-    environment: stg
+    environment: <environment>
   type: NodePort
 ```
