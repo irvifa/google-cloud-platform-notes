@@ -34,3 +34,16 @@ export MIN_POD=
 export CPU_UTILIZATION=
 kubectl -n ${NAMESPACE} autoscale deployment airflow-worker --cpu-percent=${CPU_UTILIZATION} --min=${MIN_POD} --max=${MAX_POD}
 ```
+
+### Overriding Parellelism and Concurrency
+
+```aidl
+export COMPOSER_LOCATION=
+gcloud composer environments update ${COMPOSER_ENVIRONMENT} \
+--update-airflow-configs=core-max_active_runs_per_dag=150 \
+--update-airflow-configs=core-dag_concurrency=300 \
+--update-airflow-configs=core-dagbag_import_timeout=120 \
+--update-airflow-configs=core-parallelism=300 \
+--location ${COMPOSER_LOCATION} \
+--project ${PROJECT_ID}
+```
