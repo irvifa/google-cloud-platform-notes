@@ -23,11 +23,11 @@
 - [[Sending Dailed DAGs Notifications to Slack|sending-failed-dags-notifications-to-slack]]
 
 **Firestore**
--[[Supported Data Types|supported-data-types]]
+- [[Supported Data Types|supported-data-types]]
 
 **GKE**
 - [[Connection Draining for Backend Service|connection-draining]]
-- [[[Working with R|deploying-r-applications]]
+- [[Working with R|deploying-r-applications]]
 - [[Working with React|deploying-react-applications]]
 - [[Ingress|ingress]]
 - [[Kubernetes DNS|kube-dns]]
