@@ -22,6 +22,10 @@ More notes can be found in [there](cloudbuild/README.md).
 
 More notes can be found in [there](composer/README.md).
 
+## Firestore
+
+More notes can be found in [there](firestore/README.md).
+
 ## Google Kubernetes Engine (GKE)
 
 More notes can be found in [there](gke/README.md).

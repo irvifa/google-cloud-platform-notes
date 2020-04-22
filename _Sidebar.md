@@ -18,6 +18,9 @@
 - [[Enable Autoscaling in Composer|enable-autoscale]]
 - [[KubernetesPodOperator Examples|kubernetes-pod-operator]]
 
+**Firestore**
+-[[Supported Data Types|supported-data-types]]
+
 **GKE**
 - [[Connection Draining for Backend Service|connection-draining]]
 - [[Ingress|ingress]]
