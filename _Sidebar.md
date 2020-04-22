@@ -1,3 +1,6 @@
+**Beam**
+- [[Getting Started with Beam|getting-started-with-beam]]
+
 **BigQuery**
 - [[BigQuery Cost Control|bigquery-cost-control]]
 - [[Clustered Tables|clustered-tables]]
@@ -24,6 +27,8 @@
 
 **GKE**
 - [[Connection Draining for Backend Service|connection-draining]]
+- [[[Working with R|deploying-r-applications]]
+- [[Working with React|deploying-react-applications]]
 - [[Ingress|ingress]]
 - [[Kubernetes DNS|kube-dns]]
 - [[Python Client|kubernetes-python-client]]

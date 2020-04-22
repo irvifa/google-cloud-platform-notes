@@ -2,6 +2,10 @@
 
 This is my notes about Google Cloud Platform. I'm actively answering questions in Stackoverflow.
 
+## Beam
+
+More notes can be found in [there](beam/README.md).
+
 ## BigQuery
 
 More notes can be found in [there](bigquery/README.md).

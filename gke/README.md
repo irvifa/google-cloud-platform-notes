@@ -4,6 +4,6 @@
 - [Kube DNS](kube-dns.md)
 - [Python Kubernetes API](kubernetes-python-client.md)
 - [Setup Namespace and the RBAC](rbac.md)
-- [Working with R](deploying-r-applications/README.md)
-- [Working with React](deploying-react-applications/README.md)
+- [Working with R](deploying-r-applications.md)
+- [Working with React](deploying-react-applications.md)
 
