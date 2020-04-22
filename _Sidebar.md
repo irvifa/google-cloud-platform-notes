@@ -7,17 +7,14 @@
 - [[Preventing Key Hotspots in Bigtable After Scale-Up|preventing-key-hotspot]]
 
 **Cloud Functions**
-- [[Securing Google Cloud Functions Using Service Account and How to Access it in Service-Service Communications
-|securing-cloudfunctions]]
+- [[Securing Google Cloud Functions Using Service Account|securing-cloudfunctions]]
 
 **Cloudbuild**
-- [[Sending Build Status Notification From Google Container Builder to Github
-|sending-build-status]]
+- [[Sending Build Status Notification oto Github|sending-build-status]]
 
 **Composer**
 - [[Composer Common Gotchas|composer-common-gotchas]]
-- [[Create a Dynamically Created DAG and Troubleshoot Airflow’s Webserver in Google Cloud Composer
-|dynamic-dags]]
+- [[Create a Dynamically Created DAG and Troubleshoot Airflow’s Webserver|dynamic-dags]]
 - [[Enable Autoscaling in Composer|enable-autoscale]]
 - [[KubernetesPodOperator Examples|kubernetes-pod-operator]]
 
