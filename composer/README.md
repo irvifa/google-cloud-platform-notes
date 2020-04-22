@@ -6,3 +6,4 @@ There's also linked open source project to Cloud Composer, you can refer to [Orc
 - [Common Gotchas](composer-common-gotchas.md)
 - [Enable Autoscale](enable-autoscale.md)
 - [KubernetesPodOperator Operator](kubernetes-pod-operator.md)
+- [Sending Dailed DAGs Notifications to Slack](sending-failed-dags-notifications-to-slack.md)

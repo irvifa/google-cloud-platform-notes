@@ -17,6 +17,7 @@
 - [[Create a Dynamically Created DAG and Troubleshoot Airflow’s Webserver|dynamic-dags]]
 - [[Enable Autoscaling in Composer|enable-autoscale]]
 - [[KubernetesPodOperator Examples|kubernetes-pod-operator]]
+- [[Sending Dailed DAGs Notifications to Slack|sending-failed-dags-notifications-to-slack]]
 
 **Firestore**
 -[[Supported Data Types|supported-data-types]]
