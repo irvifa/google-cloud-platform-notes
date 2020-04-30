@@ -10,6 +10,7 @@
 - [[Preventing Key Hotspots in Bigtable After Scale-Up|preventing-key-hotspot]]
 
 **Cloud Functions**
+- [[Cloudbuild Gotchas|cloudbuild-gotchas]]
 - [[Securing Google Cloud Functions Using Service Account|securing-cloudfunctions]]
 
 **Cloudbuild**
