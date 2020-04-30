@@ -38,6 +38,10 @@ More notes can be found in [there](gke/README.md).
 
 More notes can be found in [there](iap/README.md).
 
+## Pub/Sub
+
+More notes can be found in [there](pubsub/README.md).
+
 ## Stackdriver
 
 More notes can be found in [there](stackdriver/README.md).

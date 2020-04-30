@@ -38,6 +38,10 @@
 **IAP**
 - [[Getting Started|getting-started]]
 
+**Pub/Sub**
+- [[Pub/Sub Examples|pubsub-examples]]
+- [[Pub/Sub Gotchas|pubsub-gotchas]]
+
 **Stackdriver**
 - [[Exporting Stackdriver Logs to BigQuery in Multiple Projects|export-log]]
 - [[Log Entry|log-entry]]
