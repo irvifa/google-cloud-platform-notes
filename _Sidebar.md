@@ -10,10 +10,11 @@
 - [[Preventing Key Hotspots in Bigtable After Scale-Up|preventing-key-hotspot]]
 
 **Cloud Functions**
-- [[Cloudbuild Gotchas|cloudbuild-gotchas]]
 - [[Securing Google Cloud Functions Using Service Account|securing-cloudfunctions]]
+- [[Sending Payload from PubSub to Datadog|sending-payload-from-pubsub-to-datadog]]
 
 **Cloudbuild**
+- [[Cloudbuild Gotchas|cloudbuild-gotchas]]
 - [[Sending Build Status Notification oto Github|sending-build-status]]
 
 **Composer**
