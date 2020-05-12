@@ -47,4 +47,3 @@ app.post('/<path>', function (req, res, next) {
 ```
 
 That’s all, hope it helps 🙂. Merci et à bientôt. 👋
-
