@@ -1,0 +1,12 @@
+topic_name: test
+bigquery_schema:
+  table_name: test_clustered
+  fields:
+    - name: cookie_id
+      type: STRING
+      mode: NULLABLE
+    - name: name
+      type: STRING
+      mode: NULLABLE
+  clustering_column_list:
+    - name: cookie_id
